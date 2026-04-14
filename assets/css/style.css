@@ -108,6 +108,7 @@ main {
 /* ── Rowing page header with logo ── */
 .rowing-header {
   display: flex;
+  flex-direction: row;
   align-items: flex-start;
   justify-content: space-between;
   gap: 1.5rem;
@@ -115,7 +116,8 @@ main {
 }
 
 .rowing-header-text {
-  flex: 1;
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .rowing-header-text h2 {
@@ -124,14 +126,20 @@ main {
   color: #1a2a4a;
 }
 
+.rowing-header a.nurc-logo-link {
+  display: block;
+  flex: 0 0 auto;
+  align-self: flex-start;
+}
+
 .nurc-logo {
+  display: block;
   width: 120px;
   height: auto;
-  flex-shrink: 0;
   border-radius: 4px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .rowing-header {
     flex-direction: column;
   }

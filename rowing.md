@@ -8,7 +8,7 @@ title: Rowing
     <h2>Rowing Conditions at Nottingham Union Rowing Club</h2>
     <p>Tracking river and weather conditions is essential for safe and enjoyable rowing. This page provides live updates for the rowing club location.</p>
   </div>
-  <a href="https://nurc.co.uk" target="_blank" rel="noopener">
+  <a href="https://nurc.co.uk" target="_blank" rel="noopener" class="nurc-logo-link">
     <img src="https://nurc.co.uk/wp-content/uploads/2018/02/logo.jpg.webp" alt="Nottingham Union Rowing Club logo" class="nurc-logo">
   </a>
 </div>
