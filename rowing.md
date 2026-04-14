@@ -15,7 +15,7 @@ title: Rowing
 
 ### River & Weather Widget
 <iframe
-  src="https://location-weather.mr-rennie.workers.dev/widget/?lat=52.939394&lon=-1.135708&days=7&tz=Europe/London&location=Nottingham%20Union%20Rowing%20Club&bg=%23ffffff&panel=rgba(0%2C0%2C0%2C.05)&text=%231a2a4a&muted=rgba(26%2C42%2C74%2C.6)&border=rgba(26%2C42%2C74%2C.15)"
+  src="https://location-weather.mr-rennie.workers.dev/widget/?lat=52.939394&lon=-1.135708&days=7&tz=Europe/London&location=Nottingham%20Union%20Rowing%20Club&theme=light&text=%231a2a4a&muted=rgba(26%2C42%2C74%2C.6)"
   width="100%" style="border:none; display:block; height:900px;" loading="lazy"
 ></iframe>
 
