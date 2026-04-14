@@ -8,10 +8,10 @@ title: Rowing
 Tracking river and weather conditions is essential for safe and enjoyable rowing. This page provides live updates for the rowing club location.
 
 ### River & Weather Widget
-<iframe src="https://location-weather.mr-rennie.workers.dev/widget/?lat=52.939394&lon=-1.135708&days=7&tz=Europe/London&location=Nottingham%20Union%20Rowing%20Club" width="100%" height="400" style="border:none;"></iframe>
+<iframe src="https://location-weather.mr-rennie.workers.dev/widget/?lat=52.939394&lon=-1.135708&days=7&tz=Europe/London&location=Nottingham%20Union%20Rowing%20Club" width="100%" height="900" scrolling="no" style="border:none; display:block; --lw-bg:#ffffff; --lw-panel:rgba(0,0,0,.04); --lw-text:#1a1a2e; --lw-muted:rgba(26,26,46,.6); --lw-border:rgba(26,26,46,.12);"></iframe>
 
 ### Trent River Levels
-<iframe src="https://trent-levels.mr-rennie.workers.dev/widget" width="100%" height="400" style="border:none;"></iframe>
+<iframe src="https://trent-levels.mr-rennie.workers.dev/widget" width="100%" height="600" scrolling="no" style="border:none; display:block;"></iframe>
 
 ---
 
