@@ -105,6 +105,41 @@ main {
   padding: 0 1.5rem;
 }
 
+/* ── Rowing page header with logo ── */
+.rowing-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.rowing-header-text {
+  flex: 1;
+}
+
+.rowing-header-text h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.4rem;
+  color: #1a2a4a;
+}
+
+.nurc-logo {
+  width: 120px;
+  height: auto;
+  flex-shrink: 0;
+  border-radius: 4px;
+}
+
+@media (max-width: 500px) {
+  .rowing-header {
+    flex-direction: column;
+  }
+  .nurc-logo {
+    width: 80px;
+  }
+}
+
 /* ── Iframe widgets — responsive height, page scrolls ── */
 main iframe {
   display: block;
