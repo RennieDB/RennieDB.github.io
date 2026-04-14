@@ -14,7 +14,10 @@ title: Rowing
 </div>
 
 ### River & Weather Widget
-<iframe src="https://location-weather.mr-rennie.workers.dev/widget/?lat=52.939394&lon=-1.135708&days=7&tz=Europe/London&location=Nottingham%20Union%20Rowing%20Club" width="100%" style="border:none; display:block; height:900px; --lw-bg:#f5f7fa; --lw-panel:rgba(0,0,0,.05); --lw-text:#1a2a4a; --lw-muted:rgba(26,42,74,.6); --lw-border:rgba(26,42,74,.15);" loading="lazy"></iframe>
+<iframe
+  src="https://location-weather.mr-rennie.workers.dev/widget/?lat=52.939394&lon=-1.135708&days=7&tz=Europe/London&location=Nottingham%20Union%20Rowing%20Club&bg=%23ffffff&panel=rgba(0%2C0%2C0%2C.05)&text=%231a2a4a&muted=rgba(26%2C42%2C74%2C.6)&border=rgba(26%2C42%2C74%2C.15)"
+  width="100%" style="border:none; display:block; height:900px;" loading="lazy"
+></iframe>
 
 ### Trent River Levels
 <iframe src="https://trent-levels.mr-rennie.workers.dev/widget" width="100%" style="border:none; display:block; height:1200px;" loading="lazy"></iframe>
