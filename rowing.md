@@ -9,7 +9,7 @@ title: Rowing
     <p>Tracking river and weather conditions is essential for safe and enjoyable rowing. This page provides live updates for the rowing club location from Metoffice and Environment Agency data sources.</p>
   </div>
   <a href="https://nurc.co.uk" target="_blank" rel="noopener" class="nurc-logo-link">
-    <img src="/assets/nurc-logo.jpeg" alt="Nottingham Union Rowing Club logo" class="nurc-logo">
+    <img src="/assets/nurc-logo-transparent.png" alt="Nottingham Union Rowing Club logo" class="nurc-logo">
   </a>
 </div>
 
